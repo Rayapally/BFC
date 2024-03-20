@@ -11,8 +11,8 @@
 <h1>${l}</h1>
 <h1>${p}</h1>
 <h1>${w}</h1>
-<h1> ${billing}</h1>
-<h1>${err}</h1>
+<h1 style="color:green"> ${billing}</h1>
+<h1 style="color:red">${err}</h1>
 
 </body>
 </html>
